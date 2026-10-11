@@ -57,7 +57,7 @@ Because modern browsers enforce strict security on microphone permissions (`getU
 * A modern browser (Chrome, Safari, Firefox, Edge)
 
 ### 1. Clone the Repository
-    git clone https://github.com/YOUR_USERNAME/edgeecho.git
+    git clone https://github.com/coderForLife-A1/edgeecho.git
     cd edgeecho
 
 ### 2. File Verification
