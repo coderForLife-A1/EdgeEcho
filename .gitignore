@@ -32,8 +32,3 @@ package-lock.json
 # Temporary / Testing files
 /tmp/
 /temp/
-
-# Hardware / Device Specific Files
-sound_classifier.py
-trail_sense.py
-uno_q_sound_trigger.ino
