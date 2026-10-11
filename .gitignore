@@ -1,0 +1,39 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Code Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Node / Package Manager Files (if using local dev servers like http-server)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Local Environment and Log Files
+*.log
+.env
+.env.local
+.env.development.local
+.env.production.local
+
+# Temporary / Testing files
+/tmp/
+/temp/
+
+# Hardware / Device Specific Files
+sound_classifier.py
+trail_sense.py
+uno_q_sound_trigger.ino

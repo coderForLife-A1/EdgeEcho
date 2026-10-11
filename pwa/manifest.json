@@ -1,0 +1,16 @@
+{
+    "name": "EdgeEcho",
+    "short_name": "EdgeEcho",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#121212",
+    "theme_color": "#03dac6",
+    "description": "Offline-first environmental audio classifier.",
+    "icons": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4e/A_blank_black_picture.jpg",
+            "sizes": "192x192",
+            "type": "image/jpeg"
+        }
+    ]
+}
